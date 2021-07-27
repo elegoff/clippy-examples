@@ -4,6 +4,7 @@ mod approx_constant;
 mod with_coverage;
 mod too_args;
 
+
 fn main()  {
     println!("Let s raise some issues !");
     absurd::demo();
