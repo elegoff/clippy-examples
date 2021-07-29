@@ -14,7 +14,9 @@ enum WebEvent {
 }
 
 //this empty enum should raise an issue
-enum Useless{}
+enum Useless{
+    
+}
 
 pub fn demo(){
     println!("let's detect empty enums");
